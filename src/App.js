@@ -7,27 +7,27 @@ function App() {
   const mesAnimaux = [
     {
       name: 'rosi',
-      title: 'Front-end Developer',
-      email: 'lindsay.walton@example.com',
-      role: 'Member',
+      species: 'Front-end Developer',
+      race: 'lindsay.walton@example.com',
+      birthdate: 'Member',
     },
     {
       name: 'gaston',
-      title: 'Front-end Developer',
-      email: 'lindsay.walton@example.com',
-      role: 'Member',
+      species: 'Front-end Developer',
+      race: 'lindsay.walton@example.com',
+      birthdate: 'Member',
     },
     {
       name: 'Pablo',
-      title: 'Front-end Developer',
-      email: 'lindsay.walton@example.com',
-      role: 'Member',
+      species: 'Front-end Developer',
+      race: 'lindsay.walton@example.com',
+      birthdate: 'Member',
     },
     {
       name: 'Lewis',
-      title: 'Front-end Developer',
-      email: 'lindsay.walton@example.com',
-      role: 'Member',
+      species: 'Front-end Developer',
+      race: 'lindsay.walton@example.com',
+      birthdate: 'Member',
     
   },
     
